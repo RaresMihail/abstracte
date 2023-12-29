@@ -1,0 +1,2 @@
+# abstracte
+Abstracte pentru George
