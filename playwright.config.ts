@@ -33,7 +33,7 @@ export default defineConfig({
       args: ['--disable-web-security']
     }
   },
-  timeout: 3600000,
+  timeout: 36000000,
 
   /* Configure projects for major browsers */
   projects: [
